@@ -43,6 +43,11 @@ Each character is added and removed at most once.
 
 O(min(n, charset))
 
+# Maximum Average Subarray I
+
+**Pattern:** Sliding Window  
+**Problem Link:** https://leetcode.com/problems/maximum-average-subarray-i/
+
 ---
 
 ## 🔍 Why Sliding Window Works
