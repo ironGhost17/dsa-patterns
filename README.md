@@ -13,8 +13,8 @@ The objective is not just solving problems, but understanding:
 
 ## 📚 Patterns Covered
 
-- Sliding Window
-- Two Pointers
+- [Sliding Window](./sliding-window)
+- [Two Pointers](./two-pointers)
 - Binary Search
 - Graph Traversals (BFS / DFS)
 - Heap / Priority Queue
