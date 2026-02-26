@@ -37,11 +37,5 @@ Each problem includes:
 
 ---
 
-## 📚 Problems
-
-1. Maximum Average Subarray I  
-   - Fixed size window  
-   - Time: O(n)  
-   - Space: O(1)
 
 > Master patterns. Not platforms.
