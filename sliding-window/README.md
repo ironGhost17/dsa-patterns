@@ -22,6 +22,11 @@ Maintain a running window using:
 ## 📚 Problems
 
 1. Maximum Average Subarray I  
-   - Fixed size window  
+   - Fixed-size window  
    - Time: O(n)  
    - Space: O(1)
+
+2. Longest Substring Without Repeating Characters  
+   - Variable-size window  
+   - Time: O(n)  
+   - Space: O(n)
