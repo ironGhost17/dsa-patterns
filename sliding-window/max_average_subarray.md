@@ -41,6 +41,11 @@ O(n)
 
 O(1)
 
+# Maximum Average Subarray I
+
+**Pattern:** Sliding Window  
+**Problem Link:** https://leetcode.com/problems/maximum-average-subarray-i/
+
 ---
 
 ## 🔍 Why Sliding Window Works
