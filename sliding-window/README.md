@@ -21,4 +21,7 @@ Maintain a running window using:
 
 ## 📚 Problems
 
-1. (To be added)
+1. Maximum Average Subarray I  
+   - Fixed size window  
+   - Time: O(n)  
+   - Space: O(1)
