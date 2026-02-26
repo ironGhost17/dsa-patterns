@@ -22,4 +22,12 @@ Move pointers based on problem conditions.
 
 ## 📚 Problems
 
-1. (To be added)
+1. Valid Palindrome  
+   - Symmetry check  
+   - Time: O(n)  
+   - Space: O(1)
+
+2. Two Sum II – Input Array Is Sorted  
+   - Pair search in sorted array  
+   - Time: O(n)  
+   - Space: O(1)
