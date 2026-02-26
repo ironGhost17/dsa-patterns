@@ -51,3 +51,9 @@ O(min(n, charset))
 
 We dynamically adjust the window size to maintain the constraint (no duplicates),
 instead of recomputing substrings repeatedly.
+
+
+---
+
+**Source:** LeetCode  
+**Problem Link:** https://leetcode.com/problems/longest-substring-without-repeating-characters/
